@@ -1,0 +1,48 @@
+[
+    {
+        "name":"BR1",
+        "url" :"br1.api.riotgames.com"
+    },
+    {
+        "name":"EUN1",
+        "url" :"eun1.api.riotgames.com"
+    },
+    {
+        "name":"EUW1",
+        "url" :"euw1.api.riotgames.com"
+    },
+    {
+        "name":"JP1",
+        "url" :"jp1.api.riotgames.com"
+    },
+    {
+        "name":"KR",
+        "url" :"kr.api.riotgames.com"
+    },
+    {
+        "name":"LAN",
+        "url" :"la1.api.riotgames.com"
+    },
+
+    {
+        "name":"LAS",
+        "url" :"la2.api.riotgames.com"
+    },
+    {
+        "name":"NA1",
+        "url" :"na1.api.riotgames.com"
+    },
+    {
+        "name":"OC1",
+        "url" :"oc1.api.riotgames.com"
+    },
+    {
+        "name":"TR1",
+        "url" :"tr1.api.riotgames.com"
+    },
+    {
+        "name":"RU",
+        "url" :"ru.api.riotgames.com"
+    }
+
+]
