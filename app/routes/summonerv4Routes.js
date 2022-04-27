@@ -4,7 +4,10 @@ const controller = require('../controllers/summonerv4Routes');
 
    router
     .route('/byName/:rg/:summoner')
-    .get(controller.summoner)
+    .get(controller.summonerByName)
+
+    router
+      .router('/byAccount/:rg/:summoner')
+      .get(controller.summonerByAccount)
 
 module.exports = router
-  
